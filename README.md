@@ -1,16 +1,15 @@
-## Hi there 👋
+## Kağan Sağlam
 
-<!--
-**kagansaglam/kagansaglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatics MSc @ University of Bologna  
+Bioinformatics Intern @ Josep Carreras Leukaemia Research Institute, Barcelona
 
-Here are some ideas to get you started:
+### What I work on
+- Subcellular spatial transcriptomics — deep learning & biclustering-based RNA localization (10x Xenium)
+- Proteogenomics — lncRNA-derived micropeptide discovery via LC-MS/MS
+- AI-driven drug discovery — [ResistAI](https://github.com/kagansaglam/resistai): antibiotic resistance druggability platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`Python` `R` `Nextflow` `Slurm` `Singularity` `Docker` `Linux`
+
+### Links
+- [resistai.bio](https://resistai.bio)
